@@ -4,7 +4,7 @@
     --rosa:#f888b3;
     --branco: #FFFFFF;
     --botao-ativo: #8652ff;
-    --botao-inativo: rgb(190, 155, 255);
+    --botao-inativo: rgba(190, 155, 255);
     --texto-fundo: rgba(0, 0, 0, 0.3);
 }
 .body {
