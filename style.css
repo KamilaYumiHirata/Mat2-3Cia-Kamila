@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
-:root {
+
+:root{
     --cor-de-fundo: #1E1E1E;
-    --rosa:#f888b3;
+    --rosa:#6FFF57;
     --branco: #FFFFFF;
-    --botao-ativo: #8652ff;
-    --botao-inativo: rgba(190, 155, 255);
-    --texto-fundo: rgba(0, 0, 0, 0.3);
+    --botao-ativo: #3A375E;
+    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --texto-fundo: rgba(58, 55, 94, 0.3);
 }
-.body {
+
+body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
